@@ -1,38 +1,48 @@
-<h3 align="center">👋 Olá! Eu sou o R1ver</h3>
-<img src="https://user-images.githubusercontent.com/59892753/122819440-d97f2e80-d2b0-11eb-87dd-0d6737de5452.png" width="350px" align="right">
+<h1 align="center">👋 Olá, eu sou o Francisco (r1ver)</h1>
+
 <p align="center">
+  <strong>Software Engineer | Backend Specialist | Infrastructure Architect</strong>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r1verthebest&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas do GitHub" height="180px">
+</div>
+
 ---
-👨‍💼 Francisco Ferreira: Desenvolvedor Back-End | Transformando Ideias em Soluções Tecnológicas
 
-🔍 Sou um desenvolvedor Back-End com 5 anos de experiência, dedicado a criar soluções robustas e escaláveis. Com 18 anos, trago uma perspectiva jovem e inovadora para o desenvolvimento de software.
+### 🖋️ Sobre Mim
 
-🚀 Tenho habilidades em várias linguagens de programação, como Java e Python, além de forte conhecimento em bancos de dados, como MySQL. Estou sempre em busca de aprimorar minhas habilidades e me manter atualizado nas tendências do setor.
+Desenvolvedor **Backend** com 8 anos de experiência prática no desenvolvimento de sistemas de alta performance e escalabilidade. Especialista na arquitetura de servidores de grande porte, com sólido domínio em **Java** e infraestrutura de redes.
 
-💡 Meu portfólio reflete um histórico de projetos bem-sucedidos, onde colaborei com equipes para entregar produtos de alta qualidade. Estou pronto para contribuir com minha experiência e paixão pela tecnologia em sua equipe.
+* **Expertise Técnica:** Desenvolvimento de Kernels customizados (Spigot/BungeeCord), sistemas de segurança (Anti-Bot/Proxy) e otimização de banco de dados.
+* **Foco Profissional:** Engenharia de software aplicada a soluções de alta disponibilidade e performance.
+* **Trajetória:** Iniciando no desenvolvimento aos 11 anos, acumulei uma visão analítica profunda sobre ciclos de vida de software e resolução de problemas complexos.
 
-🌱 Estou aberto a novas oportunidades e colaborações. Vamos juntos transformar ideias em soluções tecnológicas que impactam positivamente o mundo.
+---
 
-📧 Entre em contato: r1verthebestofc@gmail.com
+### 🛠️ Stack Tecnológica
 
-- <h3> Habilidades </h3>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Linguagens** | `Java`, `C#`, `C++`, `JavaScript`, `Python` |
+| **Banco de Dados** | `MySQL`, `SQL Server`, `PostgreSQL` |
+| **Especialidades** | `Arquitetura de Sistemas`, `Networking`, `Segurança`, `Otimização de Performance` |
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=r1verthebest&count_private=true&show_icons=true&theme=dracula)
-<!--
-**r1verthebest/r1verthebest** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+---
 
-Aqui estão algumas ideias para você começar:
+### 🚀 Principais Habilidades
 
-- 🔭 Atualmente estou trabalhando em ...
-- 🌱 Estou aprendendo ...
-- 👯 Estou buscando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
--->
+* **Desenvolvimento Core:** Criação de sistemas próprios e APIs escaláveis.
+* **Segurança & Infra:** Implementação de camadas de proteção e configuração avançada de servidores Linux.
+* **Colaboração:** Experiência em ambientes de equipe e entrega de projetos sob demanda com foco em qualidade técnica.
+
+---
+
+### 📫 Contato & Conexões
+
+Se você busca um desenvolvedor focado em resultados técnicos e soluções robustas, vamos conversar:
+
+* **E-mail:** [franciscokferreira2006@gmail.com](mailto:franciscokferreira2006@gmail.com)
+* **Discord:** `r1verthebest`
+
+---
