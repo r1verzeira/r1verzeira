@@ -12,11 +12,18 @@
 
 ### 🖋️ Sobre Mim
 
-Desenvolvedor **Backend** com 8 anos de experiência prática no desenvolvimento de sistemas de alta performance e escalabilidade. Especialista na arquitetura de servidores de grande porte, com sólido domínio em **Java** e infraestrutura de redes.
+Desenvolvedor **Backend** com 8 anos de experiência prática e **Técnico em Informática (Certificado pelo MEC/SISTEC)**. Especialista em Processamento de Dados, arquitetura de sistemas de alta performance e infraestrutura de redes.
 
-* **Expertise Técnica:** Desenvolvimento de Kernels customizados (Spigot/BungeeCord), sistemas de segurança (Anti-Bot/Proxy) e otimização de banco de dados.
-* **Foco Profissional:** Engenharia de software aplicada a soluções de alta disponibilidade e performance.
+* **Expertise Técnica:** Desenvolvimento de Kernels customizados (Spigot/BungeeCord), sistemas de segurança (Anti-Bot/Proxy) e processamento de dados em larga escala.
+* **Foco Profissional:** Engenharia de software aplicada a soluções de alta disponibilidade, segurança e performance de servidores.
 * **Trajetória:** Iniciando no desenvolvimento aos 11 anos, acumulei uma visão analítica profunda sobre ciclos de vida de software e resolução de problemas complexos.
+
+---
+
+### 🎓 Formação & Certificações
+
+* **Técnico em Informática** – Registro **MEC/SISTEC**
+    * *Especialização:* Processamento de Dados, Algoritmos e Infraestrutura de Sistemas.
 
 ---
 
@@ -25,16 +32,16 @@ Desenvolvedor **Backend** com 8 anos de experiência prática no desenvolvimento
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Linguagens** | `Java`, `C#`, `C++`, `JavaScript`, `Python` |
-| **Banco de Dados** | `MySQL`, `SQL Server`, `PostgreSQL` |
-| **Especialidades** | `Arquitetura de Sistemas`, `Networking`, `Segurança`, `Otimização de Performance` |
+| **Banco de Dados** | `MySQL`, `SQL Server`, `PostgreSQL`, `SISTEC Standards` |
+| **Especialidades** | `Processamento de Dados`, `Networking`, `Segurança`, `Otimização de Performance` |
 
 ---
 
 ### 🚀 Principais Habilidades
 
-* **Desenvolvimento Core:** Criação de sistemas próprios e APIs escaláveis.
-* **Segurança & Infra:** Implementação de camadas de proteção e configuração avançada de servidores Linux.
-* **Colaboração:** Experiência em ambientes de equipe e entrega de projetos sob demanda com foco em qualidade técnica.
+* **Desenvolvimento Core:** Criação de sistemas próprios, APIs escaláveis e otimização de Kernels.
+* **Segurança & Infra:** Implementação de camadas de proteção (Antibot/Proxy) e configuração avançada de servidores Linux.
+* **Processamento de Dados:** Manipulação e estruturação de dados para sistemas de alta demanda.
 
 ---
 
