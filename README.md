@@ -32,22 +32,22 @@ Desenvolvedor **Backend** com 8 anos de experiência prática e **Técnico em In
 | Categoria | Tecnologias |
 |-----------|-------------|
 | **Linguagens** | `Java`, `C#`, `C++`, `JavaScript`, `Python` |
-| **Banco de Dados** | `MySQL`, `SQL Server`, `PostgreSQL`, `SISTEC Standards` |
-| **Especialidades** | `Processamento de Dados`, `Networking`, `Segurança`, `Otimização de Performance` |
+| **Banco de Dados** | `MySQL`, `SQL Server`, `PostgreSQL`, `MongoDB` |
+| **Especialidades** | `Processamento de Dados`, `Arquitetura e Hardware`, `Segurança da Informação`, `Sistemas Distribuídos` |
 
 ---
 
-### 🚀 Principais Habilidades
+### 🚀 Experiência de Destaque
 
-* **Desenvolvimento Core:** Criação de sistemas próprios, APIs escaláveis e otimização de Kernels.
-* **Segurança & Infra:** Implementação de camadas de proteção (Antibot/Proxy) e configuração avançada de servidores Linux.
-* **Processamento de Dados:** Manipulação e estruturação de dados para sistemas de alta demanda.
+* **Custom Kernels:** Desenvolvimento de Spigot e BungeeCord próprios com otimizações de NMS.
+* **Cybersecurity:** Implementação de sistemas Antibots e Antiproxies customizados para redes de grande escala.
+* **Game Modes:** Arquitetura de sistemas complexos para sistemas que envolvem combate.
 
 ---
 
-### 📫 Contato & Conexões
+### 📫 Contato & Portfólio
 
-Se você busca um desenvolvedor focado em resultados técnicos e soluções robustas, vamos conversar:
+Se você busca um desenvolvedor focado em resultados técnicos e soluções robustas, vamos conversar. **Possuo portfólio visual com fotos e logs de performance disponível sob consulta.**
 
 * **E-mail:** [franciscokferreira2006@gmail.com](mailto:franciscokferreira2006@gmail.com)
 * **Discord:** `r1verthebest`
