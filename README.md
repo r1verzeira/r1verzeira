@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> Olá, eu sou o Francisco (r1ver)</h1>
+<h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" /> Olá, eu sou o Francisco (r1ver)</h1>
   <p>
     <strong>Software Engineer | Backend Specialist | Infrastructure Architect</strong>
   </p>
@@ -17,7 +17,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Writing%20Utensils/Memo.png" width="25" /> Sobre Mim
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> Sobre Mim
 
 Estrategista **Backend** com 8 anos de experiência prática e **Técnico em Informática (MEC/SISTEC)**. Minha carreira é pautada na construção de sistemas de alta criticidade, onde performance e segurança não são opcionais.
 
