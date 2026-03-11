@@ -63,5 +63,5 @@ Busco desafios que envolvam escalabilidade extrema e arquitetura de sistemas rob
 * **🌐 Portfólio:** *Disponível sob consulta (inclui métricas de performance e logs reais)*
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20" /> <b>"Código limpo é a base, performance é o objetivo."</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20" /> <b>"Mar calmo nunca fez bom marinheiro"</b>
 </div>
