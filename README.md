@@ -24,7 +24,7 @@ Estrategista **Backend** com 8 anos de experiência prática e **Técnico em Inf
 * **🛡️ Engenharia de Segurança:** Especialista em mitigação de ataques em camada 7, arquitetura de Proxies e sistemas Anti-Bot resilientes.
 * **⚙️ Core Development:** Desenvolvimento de Kernels customizados (Spigot/BungeeCord) com foco em otimização de memória e manipulação de pacotes via NMS.
 * **📊 Processamento de Dados:** Modelagem de bancos de dados relacionais e não-relacionais para aplicações que exigem baixa latência.
-* **🧠 Evolução:** Comecei a codificar aos 11 anos, o que me proporcionou uma intuição técnica rara para depuração de sistemas complexos e arquiteturas distribuídas.
+* **🧠 Evolução:** Comecei a codificar aos 13 anos, o que me proporcionou uma intuição técnica rara para depuração de sistemas complexos e arquiteturas distribuídas.
 
 ---
 
