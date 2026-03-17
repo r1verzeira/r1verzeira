@@ -11,8 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1verthebest&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&border_radius=10" alt="Estatísticas do GitHub" height="180px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r1verthebest&theme=dracula&hide_border=false&border_radius=10" alt="Streak Stats" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=r1verzeira&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&border_radius=10" alt="Estatísticas do GitHub" height="180px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r1verzeira&theme=dracula&hide_border=false&border_radius=10" alt="Streak Stats" height="180px">
 </div>
 
 ---
