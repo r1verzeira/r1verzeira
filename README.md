@@ -1,51 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Francisco%20Ferreira&fontSize=70&animation=fadeIn" width="100%"/>
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" />
-  <h2>Especialista em Engenharia de Backend & Arquitetura de Dados</h2>
-  
-  <p>
-    <strong>Especialista Java | Pesquisador de Segurança | Arquiteto de Banco de Dados</strong>
-  </p>
-
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Distintivo Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Distintivo MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Distintivo PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="Distintivo MongoDB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Distintivo Python" />
-  <img src="https://img.shields.io/badge/Cibersegurança-E4405F?style=for-the-badge&logo=fortinet&logoColor=white" alt="Distintivo Cibersegurança" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Francisco%20Ferreira&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Engenheiro%20Backend%20%7C%20Arquiteto%20de%20Dados%20%7C%20Segurança&descAlignY=65&descSize=15" width="100%"/>
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1verzeira&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&border_radius=10&locale=pt-br" alt="Estatísticas do GitHub" height="170px">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1verzeira&layout=compact&theme=tokyonight&border_radius=10&locale=pt-br" alt="Linguagens Mais Usadas" height="170px">
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r1verzeira&theme=tokyonight&hide_border=false&border_radius=10&locale=pt-br" alt="Estatísticas de Sequência de Contribuições" width="450px">
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r1verzeira&theme=tokyonight&area=true&hide_border=true&border_radius=10&locale=pt-br" alt="Gráfico de Atividade" width="100%" />
+  <a href="mailto:franciscokferreira2006@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/r1verthebest">
+    <img src="https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=r1verzeira&style=for-the-badge&color=6366f1&label=VISITAS"/>
 </div>
+
+<br/>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Perfil Profissional
+## 🧠 Quem sou eu
 
-Engenheiro de Software com **8 anos de experiência prática** e formação técnica (MEC/SISTEC). Especialista no ecossistema **Java**, com foco em sistemas de missão crítica onde a performance e a integridade dos dados são requisitos mandatórios.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Engenheiro de Software com **8 anos de experiência prática** e formação técnica (MEC/SISTEC). Especialista no ecossistema **Java**, com foco em sistemas de missão crítica onde a performance e a integridade dos dados são requisitos mandatórios.
 
-* **🛡️ Cibersegurança & Resiliência:** Pesquisa e implementação de mecanismos de defesa em camadas, mitigação de vulnerabilidades sistêmicas e *hardening* (fortalecimento) de aplicações.
+* **🛡️ Cibersegurança & Resiliência:** Pesquisa e implementação de mecanismos de defesa em camadas, mitigação de vulnerabilidades sistêmicas e *hardening* de aplicações.
 * **⚙️ Engenharia de Performance Java:** Desenvolvimento de alto nível utilizando técnicas de manipulação de pacotes, otimização de JVM e concorrência avançada.
 * **📊 Arquitetura de Dados:** Especialista em modelagem, normalização e escalabilidade de bancos de dados relacionais e não-relacionais (NoSQL).
 * **🧠 Evolução Técnica:** Experiência consolidada desde os 13 anos de idade, desenvolvendo uma visão arquitetural profunda para resolução de problemas complexos.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Ecossistema Tecnológico
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" /> Ecossistema Tecnológico
 
 | Domínio | Especialidades Técnicas |
 | :--- | :--- |
@@ -56,7 +42,7 @@ Engenheiro de Software com **8 anos de experiência prática** e formação téc
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="35" /> Expertise & Foco de Atuação
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" width="35" /> Expertise & Foco de Atuação
 
 * **🚀 Engenharia de Performance:** Refatoração de *queries* complexas e implementação de estratégias de indexação para suportar picos de tráfego massivo.
 * **🛡️ Arquitetura Defensiva:** Construção de protocolos de segurança nativos para impedir injeções e garantir o isolamento de processos sensíveis.
@@ -64,24 +50,43 @@ Engenheiro de Software com **8 anos de experiência prática** e formação téc
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="35" /> Contato & Consultoria
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r1verzeira&show_icons=true&theme=tokyonight&border_radius=10&locale=pt-br&hide_border=true" height="140px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1verzeira&layout=compact&theme=tokyonight&border_radius=10&locale=pt-br&hide_border=true&langs_count=4" height="140px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r1verzeira&theme=tokyonight&hide_border=true&border_radius=10&locale=pt-br&date_format=j%20M%5B%20Y%5D&short_numbers=true" width="380px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r1verzeira&theme=tokyo-night&area=true&hide_border=true&radius=8&height=200" width="90%"/>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="35" /> Contato & Consultoria
 
 Interessado em colaborar em projetos que desafiem os limites da escalabilidade e segurança.
 
 <p align="left">
   <a href="mailto:franciscokferreira2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail"/>
   </a>
   <a href="https://discord.com/users/r1verthebest">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Perfil no Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Perfil no Discord"/>
   </a>
 </p>
 
+---
+
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="25" /> 
-  <br>
+  <br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="25"/>
+  <br/>
   <i>"Mar calmo nunca fez bom marinheiro"</i>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
